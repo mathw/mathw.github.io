@@ -7,5 +7,5 @@ There'll be stuff here. Varied stuff.
 ### Posts
 
 {% for post in site.posts %}
-  {{ post.date | date_to_string }} [{{ post.title }}]({{ post.title }})
+  {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 {% endfor %}
