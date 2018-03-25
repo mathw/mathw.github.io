@@ -1,3 +1,11 @@
-theme: jekyll-theme-slate
-title: A Set Of Variable Meanderings
-description: Occasional posts on programming, events, folk and early music, morris dancing, aikido, food, cats...
+title: Matthew Walton
+description: Aikido, music, dance, cats, programming
+theme: jekyll-theme-hydeout
+paginate:         5
+
+plugins_dir:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+gems: [jekyll-paginate, jekyll-feed]

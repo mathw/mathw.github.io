@@ -1,4 +1,7 @@
-## So I have a blog again
+---
+title: So I have a blog again
+layout: post
+---
 
 It's here. I'm going to write something on it.
 
