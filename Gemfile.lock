@@ -26,11 +26,6 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-theme-hydeout (3.5.3)
-      jekyll (~> 3.4)
-      jekyll-feed (~> 0.6)
-      jekyll-gist (~> 1.4)
-      jekyll-paginate (~> 1.1)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.16.2)
@@ -59,7 +54,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll-theme-hydeout (~> 3.4)
+  jekyll
+  jekyll-feed
+  jekyll-gist
+  jekyll-paginate
 
 BUNDLED WITH
    1.14.6
