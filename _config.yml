@@ -1,5 +1,6 @@
 title: Matthew Walton
 description: Aikido, music, dance, cats, programming
+theme: jekyll-theme-hydeout
 remote_theme: fongandrew/jekyll-theme-hydeout
 paginate:         5
 
