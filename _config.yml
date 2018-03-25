@@ -4,7 +4,7 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/jekyll-theme-hydeout
 paginate:         5
 
-plugins_dir:
+plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
